@@ -19,7 +19,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 $ hexo server
 ```
 
-More info23432: [Server](https://hexo.io/docs/server.html)
+More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
