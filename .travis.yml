@@ -1,5 +1,6 @@
 language: node_js
-node_js: stable
+node_js: 
+  - '7'
 
 # S: Build Lifecycle
 install:
@@ -28,4 +29,3 @@ branches:
 env:
  global:
    - GH_REF: github.com/czjroy/hexo.github.io.git
-   - GH_TOKEN : 6e514989f5e932f28fc846d6bbe597bddfe74553
